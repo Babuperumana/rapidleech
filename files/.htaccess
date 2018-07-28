@@ -20,7 +20,7 @@ ForceType text/html
 allow from all
 </files>
 
-<files unzipit.php>
+<files index.php>
 allow from all
 </files>
 
