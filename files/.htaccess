@@ -16,6 +16,10 @@ allow from all
 ForceType text/html
 </files>
 
+<files unzipit.php>
+allow from all
+</files>
+
 <files ~ "^\.">
 deny from all
 </files>
